@@ -13,3 +13,7 @@
   transform: scale(-1, 1);
 }
 ```
+
+# Known issues
+
+[![https://gyazo.com/86ccd556baa2dff1659d295734eaf8c9](https://i.gyazo.com/86ccd556baa2dff1659d295734eaf8c9.png)](https://gyazo.com/86ccd556baa2dff1659d295734eaf8c9)
