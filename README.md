@@ -6,10 +6,10 @@
 <body dir="rtl">
 ```
 
-2. Flip horizontal the pager.
+2. Flip the pager horizontal.
 
 ```css
-      .next-container,.prev-container {
-        transform: scale(-1, 1);
-      }
+.next-container,.prev-container {
+  transform: scale(-1, 1);
+}
 ```
